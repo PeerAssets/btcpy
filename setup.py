@@ -29,6 +29,6 @@ setup(name='peerassets-btcpy',
       description='A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion.',
       author='chainside srl & PeerAssets development team',
       url='https://github.com/PeerAssets/btcpy',
-      download_url='https://github.com/PeerAssets/btcpy/archive/0.6.2.ppc.tar.gz',
+      download_url='https://github.com/PeerAssets/btcpy/archive/0.6.2.pa.tar.gz',
       python_requires='>=3',
       keywords=['bitcoin', 'blockchain', 'peercoin', 'peerassets'])
